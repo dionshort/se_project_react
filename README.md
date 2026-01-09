@@ -34,8 +34,8 @@ It was created using Javascript, CSS, and HTML5.
 
 #### Pages link
 
-https://dshort13.github.io/se_project_react/
+https://dionshort.github.io/se_project_react/
 
 #### Backend code link
 
-https://github.com/DShort13/se_project_express
+https://github.com/dionshort/se_project_express
